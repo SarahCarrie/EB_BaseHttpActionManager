@@ -8,6 +8,6 @@ target 'EB_BaseNetworkManager_Example' do
   target 'EB_BaseNetworkManager_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
+    #pod 'FBSnapshotTestCase'
   end
 end

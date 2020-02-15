@@ -1,0 +1,6 @@
+framework module EB_BaseNetworkManager {
+  umbrella header "EB_BaseNetworkManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

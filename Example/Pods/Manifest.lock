@@ -1,0 +1,16 @@
+PODS:
+  - EB_BaseNetworkManager (0.1.0)
+
+DEPENDENCIES:
+  - EB_BaseNetworkManager (from `../`)
+
+EXTERNAL SOURCES:
+  EB_BaseNetworkManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EB_BaseNetworkManager: 0c4352a1cc432ed2a2c4ec8cfabd4b0d0e61bbcb
+
+PODFILE CHECKSUM: 7b4dc9869649dcae8dc836c4a39e1ce0b82fbd94
+
+COCOAPODS: 1.8.4

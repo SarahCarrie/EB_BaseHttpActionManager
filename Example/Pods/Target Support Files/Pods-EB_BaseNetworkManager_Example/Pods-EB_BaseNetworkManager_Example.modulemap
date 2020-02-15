@@ -1,0 +1,6 @@
+framework module Pods_EB_BaseNetworkManager_Example {
+  umbrella header "Pods-EB_BaseNetworkManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
